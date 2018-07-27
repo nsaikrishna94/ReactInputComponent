@@ -1,5 +1,5 @@
 import React from 'react';
-import GenericInput from '../src/genericInput';
+import GenericInput from '../src';
 
 export default class ParentComponent extends React.Component {
     constructor(props) {

@@ -1,1 +1,3 @@
-export { GenericInput } from './genericInput';
+import GenericInput from './genericInput'
+
+export default GenericInput;
